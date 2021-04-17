@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 - 👋 Hi, I’m @pabitrosingh
 - 👀 I’m interested in software development  
 - 🌱 I’m currently learning & working on K8S 
