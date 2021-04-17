@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=pabitrosingh&color=blue)
 
 - 👋 Hi, I’m @pabitrosingh
 - 👀 I’m interested in software development  
