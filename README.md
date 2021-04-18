@@ -42,7 +42,7 @@ I am a simple living person working with Machines [Computers]... >:) as fulltime
 
 8+ Years of experience in Software Development, Support, Maintenance, Leading & Mentoring
 
-Skilled in C# | Dotnet core | asp.net MVC | ADO.Net | SQL Server | LINQ | Entity Framework Core | GraphQL | NodeJS | Angular | Vue.js
+Skillset: C# | Dotnet core | asp.net MVC | ADO.Net | SQL Server | LINQ | Entity Framework Core | GraphQL | NodeJS | Angular | Vue.js
         </p>
       </div>
     <div>
