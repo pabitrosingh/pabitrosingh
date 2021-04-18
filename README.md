@@ -38,7 +38,7 @@ Java, C, C++ ignited my inner spirit & I started dreaming until I landed in my c
 
 Destiny introduced me into the world of .Net Framework; since then I started introducing myself as C#.Net Developer, along the way I picked up SQL Server, ADO.NET, Entity Framework, ASP.NET MVC, Web API. GraphQL, Nodejs
 
-I am a simple living person working with Machines [Computers]... >:) as fulltime .Net Developer. Check out my story at https://stackoverflow.com/story/pabitrosingh
+I am a simple living person working with Machines [Computers]... >:) as fulltime .Net Developer. 
 
 8+ Years of experience in Software Development, Support, Maintenance, Leading & Mentoring
 
