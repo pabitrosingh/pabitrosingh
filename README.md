@@ -32,21 +32,22 @@
     <br/>
       <div>
         <p>
-          COMPUTER facinated me during my school days when I started typing LOGO Programming Language Command to pay with Turtle...>:) then started WHILE...WEND with GW-BASIC Programing Language.
+          I’m a passionate Software Developer who believes in simple living and creative problem-solving through technology.
 
-Java, C, C++ ignited my inner spirit & I started dreaming until I landed in my college where I met Ubuntu and learned how to BASH Script.
+My journey with computers began in school — typing LOGO commands to make a little turtle move sparked a lifelong fascination, from exploring GW-BASIC loops to diving deep into C programming and Bash scripting.
 
-Destiny introduced me into the world of .Net Framework; since then I started introducing myself as C#.Net Developer, along the way I picked up SQL Server, ADO.NET, Entity Framework, ASP.NET MVC, Web API. GraphQL, Nodejs
+My journey eventually brought me to the .NET ecosystem, where I found my professional home. Since then, I’ve grown into a C#/.NET Developer. Over the years, I’ve expanded my horizons into Node.js, GraphQL, TypeScript, and Cloud Computing, continuously evolving with the ever-changing tech landscape.
 
-I am a simple living person working with Machines [Computers]... >:) as fulltime .Net Developer. 
+As a Microsoft Azure Certified Professional, I’ve worked across Software Development, Support, Maintenance, Leadership, and Mentorship — helping teams design and deliver scalable, secure, and high-performing software solutions.
 
-8+ Years of experience in Software Development, Support, Maintenance, Leading & Mentoring
+I specialize in designing and developing enterprise applications using .NET Core, C#, Blazor, Web API, ASP.NET Core, Node.js, TypeScript, GraphQL, Docker, Kubernetes, and Kafka. I have a proven track record in leading cross-functional teams, implementing microservice architectures, and driving DevOps adoption across CI/CD pipelines. I am experienced in both Azure and AWS Cloud environments, focusing on writing clean, maintainable code and driving innovation through collaboration and continuous learning.
 
-Skillset: C# | Dotnet core | asp.net MVC | ADO.Net | SQL Server | LINQ | Entity Framework Core | GraphQL | NodeJS | Angular | Vue.js
+I believe great software isn’t just about code — it’s about teamwork, curiosity, and continuous improvement.
+
+🛠 Core Skills & Tools:
+
+C# | .NET Core | Blazor | ASP.NET MVC | Web API | Entity Framework | SQL Server | NoSQL | Node.js | TypeScript | GraphQL | Microservices | CQRS | Docker | Kubernetes | Azure | AWS | CI/CD | DevOps | Kafka
         </p>
       </div>
-    <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=pabitrosingh" alt="pabitrosingh"/>
-    <div>
   </body>
 </html>
