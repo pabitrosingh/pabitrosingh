@@ -11,16 +11,6 @@
            <img src="https://komarev.com/ghpvc/?username=pabitrosingh&color=blue" alt="pabitrosingh"/>
         </h4>
     </div>
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pabitrosingh&show_icons=true&locale=en" />
-        </a>
-      </div>
-      <div>
-         <a href="https://github.com/anuraghazra/convoychat">
-           <img align="center" src="https://github-readme-stats.vercel.app/api?username=pabitrosingh&show_icons=true" />
-         </a>
-      </div>
     <br/>
       <div>
         <p>
@@ -35,11 +25,15 @@ As a Microsoft Azure Certified Professional, I’ve worked across Software Devel
 I specialize in designing and developing enterprise applications using .NET Core, C#, Blazor, Web API, ASP.NET Core, Node.js, TypeScript, GraphQL, Docker, Kubernetes, and Kafka. I have a proven track record in leading cross-functional teams, implementing microservice architectures, and driving DevOps adoption across CI/CD pipelines. I am experienced in both Azure and AWS Cloud environments, focusing on writing clean, maintainable code and driving innovation through collaboration and continuous learning.
 
 I believe great software isn’t just about code — it’s about teamwork, curiosity, and continuous improvement.
-
-🛠 Core Skills & Tools:
-
-C# | .NET Core | Blazor | ASP.NET MVC | Web API | Entity Framework | SQL Server | NoSQL | Node.js | TypeScript | GraphQL | Microservices | CQRS | Docker | Kubernetes | Azure | AWS | CI/CD | DevOps | Kafka
         </p>
       </div>
+      <h2 align="center">🛠 Core Skills & Tools</h2>
+      <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dotnet,cs,c,cpp,html,css,bootstrap,js,ts,jest,jquery,nodejs,npm,graphql,docker,kubernetes,azure,aws,kafka,mysql,mongodb,sqlite,postgres,bash,electron,fastapi,figma,firebase,git,github,nginx,postman,redis,visualstudio,vscode,vue,angular" />
+      </a>
+    </p> 
+    <p align="center">Blazor | ASP.NET MVC | Web API | Entity Framework | SQL Server | NoSQL | Microservices | CQRS | CI/CD | DevOps</P>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   </body>
 </html>
